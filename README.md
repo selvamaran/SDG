@@ -1,2 +1,2 @@
 # SDG
-Data Analysis related sustainable development goals(SDGs)
+Data Analysis related to sustainable development goals(SDGs)
